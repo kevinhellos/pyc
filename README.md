@@ -14,8 +14,8 @@ endmain
 
 ### User input
 ```cpp
-String fullName = input("Enter your full name> ");
-print("Hello " + fullName + " !");
+String fullName = input("Enter your full name> ")
+print("Hello " + fullName + " !")
 ```
 
 ### Printing
@@ -43,7 +43,7 @@ int apple = 5;
 
 ifelse(
   apple >= 5,
-  std::cout << "We have sufficient apples" << std::endl;,
-  std::cout << "We need more apples" << std::endl;
+  print("We have sufficient apples"),
+  print("We need more apples")
 );
 ```
