@@ -1,5 +1,5 @@
 # pyc
-C++ extension for Python like syntax
+C++ macros extension for Python like syntax
 
 ## At a glance
 ### Main method
